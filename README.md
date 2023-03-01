@@ -1,2 +1,2 @@
 # evaluation
-This is my project codong with "HTML AND CSS AND BOOTSTRAP"
+This is my project coding with "HTML , CSS AND BOOTSTRAP"
